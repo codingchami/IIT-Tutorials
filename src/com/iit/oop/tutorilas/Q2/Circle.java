@@ -1,4 +1,4 @@
-package com.iit.oop.week_01_Tut.Q2;
+package com.iit.oop.tutorilas.Q2;
 
 public class Circle {
     private double radius;

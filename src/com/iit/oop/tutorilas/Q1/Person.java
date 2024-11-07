@@ -1,4 +1,4 @@
-package com.iit.oop.week_01_Tut.Q1;
+package com.iit.oop.tutorilas.Q1;
 
 public class Person {
     private String name;

@@ -1,6 +1,6 @@
-package com.iit.oop.week_01_Tut.Q1;
+package com.iit.oop.tutorilas.Q1;
 
-import com.iit.oop.week_01_Tut.Q2.Circle;
+import com.iit.oop.tutorilas.Q2.Circle;
 
 public class TutorialWeek02 {
     public static void main(String[] args) {
